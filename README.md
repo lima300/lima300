@@ -4,18 +4,6 @@ Hi 👋! I'm Otavio — Senior Frontend Engineer focused on building scalable Re
 
 ###
 
-<h3 align="left">🚀 About Me</h3>
-
-- 💻 Senior Frontend Engineer specialized in **React, TypeScript, and scalable architectures**
-- 🧩 Strong focus on **Design Systems** (Web Components, reusable UI, consistency at scale)
-- 🏗️ Experienced with **Microfrontends (Module Federation)** in enterprise environments
-- ⚡ Passionate about **performance optimization, DX, and clean architecture**
-- 🌍 Working with **international teams across multiple time zones**
-- 🎥 I create content about **software engineering, frontend, and tech careers**  
-  → Follow my journey on Instagram: <a href="https://www.instagram.com/otaviolimasoares/">@otaviolimasoares</a>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lima300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=lima300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -43,6 +31,18 @@ Hi 👋! I'm Otavio — Senior Frontend Engineer focused on building scalable Re
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
+
+<h3 align="left">🚀 About Me</h3>
+
+- 💻 Senior Frontend Engineer specialized in **React, TypeScript, and scalable architectures**
+- 🧩 Strong focus on **Design Systems** (Web Components, reusable UI, consistency at scale)
+- 🏗️ Experienced with **Microfrontends (Module Federation)** in enterprise environments
+- ⚡ Passionate about **performance optimization, DX, and clean architecture**
+- 🌍 Working with **international teams across multiple time zones**
+- 🎥 I create content about **software engineering, frontend, and tech careers**  
+  → Follow my journey on Instagram: <a href="https://www.instagram.com/otaviolimasoares/">@otaviolimasoares</a>
 
 ###
 
