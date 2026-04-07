@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Otavio and I'm a Software Engineer, from Brazil</h2>
+<h2 align="left">
+Hi 👋! I'm Otavio — Senior Frontend Engineer focused on building scalable React architectures, design systems, and high-performance web applications.
+</h2>
 
 ###
 
