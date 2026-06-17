@@ -42,7 +42,7 @@ Hi 👋! I'm Otavio — Senior Frontend Engineer focused on building scalable Re
 - ⚡ Passionate about **performance optimization, DX, and clean architecture**
 - 🌍 Working with **international teams across multiple time zones**
 - 🎥 I create content about **software engineering, frontend, and tech careers**  
-  → Follow my journey on Instagram: <a href="https://www.instagram.com/otaviolimasoares/">@otaviolimasoares</a>
+  → Follow my journey on Instagram: <a href="https://www.instagram.com/otaviolima.dev/">@otaviolima.dev</a>
 
 ###
 
